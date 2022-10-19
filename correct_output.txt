@@ -1,0 +1,76 @@
+Press 1 to create your own office!
+
+You entered a sub-room number less than 2, minimum value is 2
+Therefore, weve set office number to 2
+
+PRINTING DETAILS
+
+Kingfish has a total of 5 employees.
+CEO: Mark
+HR: Doug
+Managers:
+Manager #0: Nick
+Manager #1: Stew
+Employees:
+Employee #0: Jackson
+Employee #1: ?
+Employee #2: ?
+
+
+PRINTING DETAILS
+
+Kingfish has a total of 6 employees.
+CEO: Mark
+HR: Doug
+Managers:
+Manager #0: Nick
+Manager #1: Stew
+Employees:
+Employee #0: Jackson
+Employee #1: Corey
+Employee #2: ?
+
+
+PRINTING DETAILS
+
+Kingfish has a total of 7 employees.
+CEO: Mark
+HR: Doug
+Managers:
+Manager #0: Nick
+Manager #1: Stew
+Employees:
+Employee #0: Jackson
+Employee #1: Corey
+Employee #2: Andy
+
+
+Stew was successfully booked in!
+
+Total of 3 Desks...
+This desk is currently occupied by Stew
+Desk #2 is not occupied
+Desk #3 is not occupied
+
+Do you want to add another employee to the desk roster? (enter yes or no)
+
+Corey was successfully booked in!
+
+Total of 3 Desks...
+This desk is currently occupied by Stew
+This desk is currently occupied by Corey
+Desk #3 is not occupied
+
+Do you want to add another employee to the desk roster? (enter yes or no)
+
+Jackson was successfully booked in!
+
+Total of 3 Desks...
+This desk is currently occupied by Stew
+This desk is currently occupied by Corey
+This desk is currently occupied by Jackson
+
+Do you want to add another employee to the desk roster? (enter yes or no)
+Andy couldnt be added to the office plan
+
+Office plan full for today! Enjoy the day at work!
